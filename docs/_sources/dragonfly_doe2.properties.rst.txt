@@ -1,0 +1,22 @@
+dragonfly\_doe2.properties package
+==================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   dragonfly_doe2.properties.building
+   dragonfly_doe2.properties.context
+   dragonfly_doe2.properties.model
+   dragonfly_doe2.properties.room2d
+   dragonfly_doe2.properties.story
+
+Module contents
+---------------
+
+.. automodule:: dragonfly_doe2.properties
+   :members:
+   :undoc-members:
+   :show-inheritance:

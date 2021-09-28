@@ -1,0 +1,7 @@
+dragonfly\_doe2.properties.building module
+==========================================
+
+.. automodule:: dragonfly_doe2.properties.building
+   :members:
+   :undoc-members:
+   :show-inheritance:
