@@ -1,6 +1,6 @@
 
 from dragonfly_doe2.properties.building import BuildingDOE2Properties
-
+import dragonfly_energy
 from dragonfly.building import Building
 from tests.fixtures.building import default_building, custom_building
 
