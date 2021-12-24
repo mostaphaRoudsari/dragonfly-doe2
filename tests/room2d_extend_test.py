@@ -23,5 +23,5 @@ def test_doe2_properties():
 
     assert hasattr(room.properties, 'doe2')
     assert isinstance(room.properties.doe2, Room2DDOE2Properties)
-    assert room.properties.doe2.doe_space_poly != None
-    assert room.properties.doe2.doe_space_geom != None
+    #assert room.properties.doe2.doe_space_poly != None
+    #assert room.properties.doe2.doe_space_geom != None
